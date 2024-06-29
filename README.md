@@ -7,7 +7,7 @@
 
 ## 🛠️ Technologies Used
 
-### Node.js
+### Node.js 	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 - RESTful API 서버 구축: Express.js 프레임워크를 사용하여 RESTful API 서버를 구현
 - 실시간 통신: Socket.io를 활용하여 실시간 데이터 송·수신
 
