@@ -15,6 +15,7 @@
 기존에 공부 및 프로젝트를 진행하며 사용한 기술과 상세한 내용
 
 **Node.js**
+<span style="color: #007acc">**Node.js**</span>
 
 - RESTful API 서버 구축 : Express.js 프레임워크를 사용하여 RESTful API 서버를 구현
 - 실시간 통신 : Socket.io를 활용하여 실시간 데이터 송·수신
