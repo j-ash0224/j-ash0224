@@ -66,7 +66,3 @@
 - 운전면허 1종 보통
 - 조주기능사
 - 정보처리기사
-
----
-
-Let's connect! Find me on [LinkedIn](Your LinkedIn URL)
