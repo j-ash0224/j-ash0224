@@ -10,7 +10,7 @@
 ### ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - RESTful API 서버 구축: Express.js 프레임워크를 사용하여 RESTful API 서버를 구현
 - 실시간 통신: Socket.io를 활용하여 실시간 데이터 송·수신
-  </n>
+  <br/><br/>
 ### ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 - 데이터베이스 설계 및 생성: 프로젝트 요구사항에 맞는 데이터베이스 스키마 설계 및 생성
 - 복잡한 질의문 작성: JOIN, Subquery, Aggregate Functions 등을 활용하여 복잡한 질의문 작성
