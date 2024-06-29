@@ -37,7 +37,7 @@
 - Java Script, HTML5, CSS 를 활용한 간단한 웹페이지 제작
 
 
-### ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white), ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+### ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 - 간단한 알고리즘 해결
 
 
