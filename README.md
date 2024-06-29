@@ -8,7 +8,9 @@
 
 ---
 
-# 🛠️ Technologies Used
+<div style="background-color: #f0f0f0; padding: 10px">
+## 🛠️ Technologies Used
+</div>
 
 기존에 공부 및 프로젝트를 진행하며 사용한 기술과 상세한 내용
 
