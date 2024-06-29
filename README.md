@@ -1,7 +1,7 @@
 <!-- Header -->
 # 안녕하세요!👋 
 
-Backend Developer & Cloud Engineer
+## 💻 Backend Developer & Cloud Engineer
 
 ---
 
