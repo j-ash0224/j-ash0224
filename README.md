@@ -63,6 +63,7 @@
 ---
 
 ## 🪪 Certificates & Licenses
+- 정보처리기사
+- AWS Certified Cloud Practitioner
 - 운전면허 1종 보통
 - 조주기능사
-- 정보처리기사
