@@ -65,5 +65,7 @@
 ## 🪪 Certificates & Licenses
 - 정보처리기사
 - AWS Certified Cloud Practitioner
+- SQLD
+- Toeic speaking IM3
 - 운전면허 1종 보통
 - 조주기능사
